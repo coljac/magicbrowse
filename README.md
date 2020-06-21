@@ -1,4 +1,4 @@
-#MTGQt
+# MTGQt
 
 A responsive card browser in Qt and Python.
 
